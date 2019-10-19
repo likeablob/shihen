@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name shihen)(type Legacy)(uri ${KIPRJMOD}/shihen.lib)(options "")(descr ""))
+  (lib (name uSD_push-push_ebay)(type Legacy)(uri ${KIPRJMOD}/lib_ext/uSD_push-push_ebay.lib)(options "")(descr ""))
+)
