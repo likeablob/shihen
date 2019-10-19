@@ -13,6 +13,7 @@ Have a glimpse of your favorite poems, quotes or scenes of a movie.
 |  <img align="center" width="auto" height="200px" src="./images/shihen_s_3.jpg">  | <img align="center" width="auto" height="200px" src="./images/shihen_s_6.jpg"> |
 | :------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
 | <img align="center" width="250px" height="auto" src="./images/shihen_2_sd2.gif"> | <img align="center" width="auto" height="200px" src="./images/shihen_s_1.jpg"> |
+|  <img align="center" width="auto" height="200px" src="./images/shihen_s_4.jpg">  |                                                                                |
 
 ## Project structure
 - [`pio/`](./pio) - code for the firmware(PlatformIO)
