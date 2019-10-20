@@ -19,7 +19,7 @@ Have a glimpse of your favorite poems, quotes or scenes of a movie.
 - [`pio/`](./pio) - code for the firmware(PlatformIO)
 - [`kicad/`](./kicad) - PCB design (KiCad)
 - [`openscad/`](./openscad) - models for the 3D-printable case. (OpenSCAD)
-- https://github.com/likeablob/shihen-webui - code for the WebUI(Vue.js + Buefy)
+- https://github.com/likeablob/shihen-webui - code for the WebUI(Nuxt.js + Vuetify)
 
 ## Build Instructions
 WIP

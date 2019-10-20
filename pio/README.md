@@ -22,16 +22,16 @@ upload_port = ${env:main.device_name}.local
 upload_protocol = espota
 ```
 ### ISP port (J1) pin definitions:
-```
-1: 5V (LDO_IN)
-2: ESP_RESET: RST pin
-3: ESP_BOOT: GPIO0 pin
-4: GND
-5: ESP_TXD: TX pin
-6: ESP_RXD: RX pin
-```
+| Pin No. | Board           | USB Serial |
+| ------- | --------------- | ---------- |
+| 1       | 5V(LDO_IN)      | 5V         |
+| 2       | ESP_RESET(RST)  | RTS        |
+| 3       | ESP_BOOT(GPIO0) | DTR        |
+| 4       | GND             | GND        |
+| 5       | ESP_TX(UART TX) | RX         |
+| 6       | ESP_RX(UART RX) | TX         |
 
 ### Acknowledgments
 - Please refer to
-  - [platformio.ini](./platformio.ini).
-  - [lib/](./lib).
+  - [platformio.ini](./platformio.ini)
+  - [lib/](./lib)
