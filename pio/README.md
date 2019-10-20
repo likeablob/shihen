@@ -32,4 +32,6 @@ upload_protocol = espota
 ```
 
 ### Acknowledgments
-- Please refer to [platformio.ini](./platformio.ini).
+- Please refer to
+  - [platformio.ini](./platformio.ini).
+  - [lib/](./lib).
